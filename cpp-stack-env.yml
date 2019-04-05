@@ -11,6 +11,8 @@ dependencies:
   - xtensor 
   - xtensor-blas
   - xtensor-io
+  - xtensor-python
+  - xsimd  
   
   # Additional python resources
   - notebook 
