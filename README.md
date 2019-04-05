@@ -5,7 +5,7 @@ trying to follow C++11 standard and above.
 
 ## Purpose
 
-Training. Exercise. And suffering a little bit.
+Training. Exercise. And a little bit of suffering.
 
 ## About me
 
