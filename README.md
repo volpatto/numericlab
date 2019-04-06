@@ -9,7 +9,7 @@ __This repo will be always under development!__ But I must emphasize that I will
 
 Training. Exercising. And a Rough Suffering. TEARS, for short.
 
-More clearly: the main purpose of this repo is learning. I want to improve my C++ skills and consolidate a minimal C++ stack for scientific/numerical developers. I am learning while I do the implementations. Do not expect optimal codes here, best pratices and things like that. I am not (too much) concerned about this point, but I will try to do a minimal effort for it.
+More clearly: the main purpose of this repo is learning. I want to improve my C++ skills and consolidate a minimal C++ stack for scientific/numerical developers. I am learning while I do the implementations. Do not expect optimal codes here, best practices and things like that. I am not (too much) concerned about this point, but I will try to do a minimal effort for it.
 
 ## Planning
 
