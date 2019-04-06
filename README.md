@@ -50,6 +50,58 @@ If you, by chance, find any usage in any available code, feel free to use. But I
 
 To run anything from this repo, a proper conda environment is needed (although you can install and build the dependencies by yourself as well). To reproduce the same environment I use, just create an environment from the file `cpp-stack-env.yml`.
 
+## Implementation checklist
+
+* xtensor:
+
+  1. Root-finding methods:
+      - [ ] Bisection;
+      - [ ] Secant method (quasi Newton);
+      - [ ] Newton.
+  2. Linear systems solvers:
+      - [ ] Jacobi;
+      - [ ] Gauss-Seidel;
+      - [ ] SOR.
+  3. Interpolation:
+      - [ ] Lagrange polynomials.
+  4. Numerical quadrature:
+      - [ ] Open Newton-Cotes formula;
+      - [ ] Closed Newton-Cotes formula;
+      - [ ] Gauss-Legendre Quadrature example.
+  5. ODE solvers:
+      - [ ] Explicit Euler;
+      - [ ] Implicit Euler;
+      - [ ] Crank-Nicolson;
+      - [ ] Explicit Runge-Kutta 4th order.
+  6. 1D PDE solvers:
+      - [ ] Finite Difference Method (FDM) for Poisson problem;
+      - [ ] FDM for Parabolic (transient) problem.
+      
+* Eigen:
+
+  1. Root-finding methods:
+      - [ ] Bisection;
+      - [ ] Secant method (quasi Newton);
+      - [ ] Newton.
+  2. Linear systems solvers:
+      - [ ] Jacobi;
+      - [ ] Gauss-Seidel;
+      - [ ] SOR.
+  3. Interpolation:
+      - [ ] Lagrange polynomials.
+  4. Numerical quadrature:
+      - [ ] Open Newton-Cotes formula;
+      - [ ] Closed Newton-Cotes formula;
+      - [ ] Gauss-Legendre Quadrature example.
+  5. ODE solvers:
+      - [ ] Explicit Euler;
+      - [ ] Implicit Euler;
+      - [ ] Crank-Nicolson;
+      - [ ] Explicit Runge-Kutta 4th order.
+  6. 1D PDE solvers:
+      - [ ] Finite Difference Method (FDM) for Poisson problem;
+      - [ ] FDM for Parabolic (transient) problem.
+
 ## About me
 
 My name is Diego. Just a developer under development. Occasionally a doctoral student.
