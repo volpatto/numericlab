@@ -48,7 +48,7 @@ Finally, but important: __maybe this repo is just another project I created whic
 
 If you, by chance, find any usage in any available code, feel free to use. But I do not guarantee nothing.
 
-To run anything from this repo, a proper conda environment is needed (although you can install and build the dependencies by yourself as well). To reproduce the same environment I use, just create an environment from the file `cpp-stack-env.yml`.
+To run anything from this repo, a proper [conda](https://conda.io/en/latest/) environment is needed (although you can install and build the dependencies by yourself as well). To reproduce the same environment I use, just create an environment from the file `cpp-stack-env.yml`.
 
 ## Implementation checklist
 
