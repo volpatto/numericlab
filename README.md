@@ -38,7 +38,7 @@ The planned contents are:
       - Implicit Euler;
       - Crank-Nicolson;
       - Explicit Runge-Kutta 4th order.
-  6. 1D EDP solvers:
+  6. 1D PDE solvers:
       - Finite Difference Method (FDM) for Poisson problem;
       - FDM for Parabolic (transient) problem.
       
