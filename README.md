@@ -42,7 +42,7 @@ The planned contents are:
       - Finite Difference Method (FDM) for Poisson problem;
       - FDM for Parabolic (transient) problem.
       
-Finally, but important: __maybe this repo is just another project I create which will be not continued__. Maybe not.
+Finally, but important: __maybe this repo is just another project I created which will be not continued__. Maybe not.
 
 ## About me
 
