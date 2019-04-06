@@ -20,7 +20,7 @@ The planned contents are:
 * Simple numerical methods. Very basic methods from this discipline, just for practicing. All the methods will be implemented using `Eigen` and `xtensor`, a version for each lib. The following methods are planned:
 
   1. Root-finding methods:
-      - Bissection;
+      - Bisection;
       - Secant method (quasi Newton);
       - Newton.
   2. Linear systems solvers:
