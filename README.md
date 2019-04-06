@@ -15,7 +15,7 @@ More clearly: the main purpose of this repo is learning. I want to improve my C+
 
 The planned contents are:
 
-* Minimal C++ background (prerequistes). As we use `Eigen` and `xtensor`, it means essentially Templates. A brief language overview and important features for the numerical applications will be provided.
+* Minimal C++ background (prerequistes). As we use `Eigen` and `xtensor`, it means essentially Templates. A brief language overview and important features for the numerical applications will be provided. Most of such stuffs will be available in `ipython notebook`s using [xeus](http://quantstack.net/xeus) to enable the C++ kernel.
 
 * Simple numerical methods. Very basic methods from this discipline, just for practicing. All the methods will be implemented using `Eigen` and `xtensor`, a version for each lib. The following methods are planned:
 
@@ -43,6 +43,12 @@ The planned contents are:
       - FDM for Parabolic (transient) problem.
       
 Finally, but important: __maybe this repo is just another project I created which will be not continued__. Maybe not.
+
+## Usage
+
+If you, by chance, find any usage in any available code, feel free to use. But I do not guarantee nothing.
+
+To run anything from this repo, a proper conda environment is needed (although you can install and build the dependencies by yourself as well). To reproduce the same environment I use, just create an environment from the file `cpp-stack-env.yml`.
 
 ## About me
 
