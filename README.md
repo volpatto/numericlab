@@ -15,7 +15,7 @@ More clearly: the main purpose of this repo is learning. I want to improve my C+
 
 The planned contents are:
 
-* Minimal C++ background (prerequistes). As we use `Eigen` and `xtensor`, it means essentially Templates. A brief language overview and important features for the numerical applications will be provided. Most of such stuffs will be available in `ipython notebook`s using [xeus](http://quantstack.net/xeus) to enable the C++ kernel.
+* Minimal C++ background (prerequistes). As we use `Eigen` and `xtensor`, it means essentially Templates. A brief language overview and important features for the numerical applications will be provided. Most of such stuffs will be available in `jupyter notebook`s using [xeus](http://quantstack.net/xeus) to enable the C++ kernel.
 
 * Simple numerical methods. Very basic methods from this discipline, just for practicing. All the methods will be implemented using `Eigen` and `xtensor`, a version for each lib. The following methods are planned:
 
